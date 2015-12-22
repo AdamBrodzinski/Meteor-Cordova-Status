@@ -2,6 +2,8 @@ Meteor-Cordova-Status
 =====================
 
 Sets various Cordova events into Session so they can be reactivley used in your app.
+Note, this package is deprecated, see this forum post for more details:
+https://forums.meteor.com/t/cordova-app-breaks-on-wake-up/15194/12
 
 ### Install Package
 
